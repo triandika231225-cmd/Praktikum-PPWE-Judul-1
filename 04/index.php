@@ -20,7 +20,7 @@ $total_tampil = count($daftar_mahasiswa);
 // Ambil flash message dari session jika tersedia
 $flash = get_flash_message();
 
-$page_title = 'SIMA - Modul 4 PJP Server Side Dinamis';
+$page_title = 'SIMA - Versi produksi kampus';
 require_once __DIR__ . '/includes/header.php';
 ?>
 
